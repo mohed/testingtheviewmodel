@@ -1,0 +1,11 @@
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel\testingtheviewmodel\bin\Debug\netstandard2.0\testingtheviewmodel.deps.json
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel\testingtheviewmodel\bin\Debug\netstandard2.0\testingtheviewmodel.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel\testingtheviewmodel\bin\Debug\netstandard2.0\testingtheviewmodel.pdb
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel\testingtheviewmodel\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel\testingtheviewmodel\obj\Debug\netstandard2.0\testingtheviewmodel.AssemblyInfoInputs.cache
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel\testingtheviewmodel\obj\Debug\netstandard2.0\testingtheviewmodel.AssemblyInfo.cs
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel\testingtheviewmodel\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel\testingtheviewmodel\obj\Debug\netstandard2.0\testingtheviewmodel.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel\testingtheviewmodel\obj\Debug\netstandard2.0\testingtheviewmodel.pdb
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel\testingtheviewmodel\obj\Debug\netstandard2.0\testingtheviewmodel.csprojAssemblyReference.cache
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel\testingtheviewmodel\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs

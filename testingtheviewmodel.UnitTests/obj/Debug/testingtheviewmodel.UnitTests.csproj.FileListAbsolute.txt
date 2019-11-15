@@ -1,0 +1,15 @@
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UnitTests\bin\Debug\testingtheviewmodel.UnitTests.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UnitTests\bin\Debug\testingtheviewmodel.UnitTests.pdb
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UnitTests\bin\Debug\nunit.framework.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UnitTests\bin\Debug\nunit.framework.pdb
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UnitTests\bin\Debug\Xamarin.Forms.Core.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UnitTests\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UnitTests\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UnitTests\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UnitTests\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UnitTests\bin\Debug\testingtheviewmodel.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UnitTests\bin\Debug\testingtheviewmodel.pdb
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UnitTests\obj\Debug\testingtheviewmodel.UnitTests.csprojAssemblyReference.cache
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UnitTests\obj\Debug\testingtheviewmodel.UnitTests.csproj.CopyComplete
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UnitTests\obj\Debug\testingtheviewmodel.UnitTests.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UnitTests\obj\Debug\testingtheviewmodel.UnitTests.pdb

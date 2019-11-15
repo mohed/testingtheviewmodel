@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Devel\\csharp\\projects\\testingtheviewmodel\\testingtheviewmodel.frameworkTest\\testingtheviewmodel.frameworkTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Devel\\csharp\\projects\\testingtheviewmodel\\testingtheviewmodel.frameworkTest\\testingtheviewmodel.frameworkTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Devel\\csharp\\projects\\testingtheviewmodel\\testingtheviewmodel.frameworkTest\\testingtheviewmodel.frameworkTest.csproj",
+        "projectName": "testingtheviewmodel.frameworkTest",
+        "projectPath": "C:\\Devel\\csharp\\projects\\testingtheviewmodel\\testingtheviewmodel.frameworkTest\\testingtheviewmodel.frameworkTest.csproj",
+        "packagesPath": "C:\\Users\\mohed\\.nuget\\packages\\",
+        "outputPath": "C:\\Devel\\csharp\\projects\\testingtheviewmodel\\testingtheviewmodel.frameworkTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "E:\\Microsoft\\Xamarin\\NuGet"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mohed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[2.6.4, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

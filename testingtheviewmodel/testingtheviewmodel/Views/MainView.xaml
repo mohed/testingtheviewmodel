@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="testingtheviewmodel.Views.MainView"
+             xmlns:viewModelBase="clr-namespace:testingtheviewmodel.ViewModels.Base;assembly=testingtheviewmodel"
+             viewModelBase:ViewModelLocator.AutoWireViewModel="true"
+             Title="Main">
+    <StackLayout VerticalOptions="CenterAndExpand"
+                 HorizontalOptions="Center">
+        <Label Text="Welcome to Xamarin.Forms!"/>
+        <Button Text="Print something"
+                Command="{Binding PrintCommand}" />
+    </StackLayout>
+</ContentPage>

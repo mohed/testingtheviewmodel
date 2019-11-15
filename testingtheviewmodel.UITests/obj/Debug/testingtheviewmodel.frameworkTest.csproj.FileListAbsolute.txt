@@ -1,0 +1,8 @@
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.frameworkTest\bin\Debug\testingtheviewmodel.frameworkTest.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.frameworkTest\bin\Debug\testingtheviewmodel.frameworkTest.pdb
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.frameworkTest\bin\Debug\nunit.framework.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.frameworkTest\bin\Debug\Xamarin.UITest.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.frameworkTest\obj\Debug\testingtheviewmodel.frameworkTest.csprojAssemblyReference.cache
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.frameworkTest\obj\Debug\testingtheviewmodel.frameworkTest.csproj.CopyComplete
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.frameworkTest\obj\Debug\testingtheviewmodel.frameworkTest.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.frameworkTest\obj\Debug\testingtheviewmodel.frameworkTest.pdb

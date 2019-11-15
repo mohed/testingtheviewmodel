@@ -1,0 +1,13 @@
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UITests\bin\Debug\testingtheviewmodel.UITests.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UITests\bin\Debug\testingtheviewmodel.UITests.pdb
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UITests\bin\Debug\nunit.framework.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UITests\obj\Debug\testingtheviewmodel.UITests.csprojAssemblyReference.cache
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UITests\obj\Debug\testingtheviewmodel.UITests.csproj.CopyComplete
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UITests\obj\Debug\testingtheviewmodel.UITests.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UITests\obj\Debug\testingtheviewmodel.UITests.pdb
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UITests\bin\Debug\xunit.abstractions.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UITests\bin\Debug\xunit.assert.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UITests\bin\Debug\xunit.core.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UITests\bin\Debug\xunit.execution.desktop.dll
+C:\Devel\csharp\projects\testingtheviewmodel\testingtheviewmodel.UITests\bin\Debug\nunit.framework.pdb
